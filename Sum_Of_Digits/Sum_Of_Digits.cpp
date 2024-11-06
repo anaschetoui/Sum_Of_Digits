@@ -14,7 +14,7 @@ int ReadPositiveNumber()
 	return N;
 }
 
-void ReversedDigits(int N)
+void SumOfDigits(int N)
 {
 	int i = 0;
 	int Sum = 0;
